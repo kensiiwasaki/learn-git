@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <p>rebase-test1</p>
+        <p>rebase-test2</p>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
